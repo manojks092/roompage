@@ -50,9 +50,10 @@
       height: 40px;
       text-align: center;
       color: white;
-      background-image : "url(images/bansuri.jpg)";
+      background-image: url("images/bansuri.jpg");
+      background-size:cover;
       background-repeat: no-repeat;
-      background-size: contain;
+      background-position:center;
     }
 
     .menu {
